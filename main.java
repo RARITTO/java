@@ -7,9 +7,9 @@ public class main {
         System.out.print("Enter a number (1-7): ");
 
         try {
-            int x = Integer.parseInt(sca.nextLine());
+            int y = Integer.parseInt(sca.nextLine());
 
-            switch (x) {
+            switch (y) {
                 case 1:
                     System.out.println("Monday");
                     break;
